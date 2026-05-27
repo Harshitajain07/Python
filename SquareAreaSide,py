@@ -1,0 +1,5 @@
+#WAP TO INPUT SIDE OF A SQUARE AND PRINT ITS AREA
+
+
+side = float(input("Enter side of a square: "))
+print("area = ", side*side)
